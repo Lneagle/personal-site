@@ -95,6 +95,7 @@ header .navbar ul li a:hover {
 .project-container article img {
     width: 100%;
     max-width: 500px;
+    border: 1px solid #ccc;
 }
 
 .project-container article a {
